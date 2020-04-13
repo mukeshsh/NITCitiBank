@@ -15,5 +15,8 @@ public class Utility {
 	public void m2() {
 		System.out.println("Utility m1() method: 34565");
 	}
+	public void m3() {
+		System.out.println("Utility.m3()");
+	}
 
 }
